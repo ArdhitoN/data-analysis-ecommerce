@@ -33,6 +33,11 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 
+
 ```
+1. Go to the dashboard directory
+cd dashboard
+
+2. Run the dashboard using command:
 streamlit run dashboard.py
 ```
